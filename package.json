@@ -1,0 +1,19 @@
+{
+  "name": "twinz-apk",
+  "version": "3.5.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "cap": "npx cap"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "typescript": "^5.4.0"
+  }
+}
